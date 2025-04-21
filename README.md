@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Sandip Duley</h1>
 <h3 align="center">Cybersecurity Enthusiast | Open Source Contributor | Toolsmith</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=luinor-0987&label=Profile%20Views&color=0e75b6&style=flat" alt="luinor-0987" />
 </p>
 
@@ -62,6 +62,6 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luinor-0987&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
