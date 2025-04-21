@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=luinor-0987&label=Profile%20Views&color=0e75b6&style=flat" alt="luinor-0987" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/sandip_0987" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sandip_0987?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
   </a>
@@ -59,9 +59,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Insights
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luinor-0987&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
